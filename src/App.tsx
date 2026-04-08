@@ -1,7 +1,3 @@
-import SalesPage from "@/pages/SalesPage";
-
-function App() {
-  return <SalesPage />;
+export default function App() {
+  return <h1>Site funcionando 🚀</h1>;
 }
-
-export default App;
